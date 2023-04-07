@@ -44,6 +44,14 @@ You may refer to your previous work, the [Sequelize documentation][docs], the
 documentation for [Sequelize CLI][cli-docs], or online resources to assist you
 in completing this practice.
 
-[localhost]: http://localhost:5000/
+## Submission
+
+After you are done with all the phases, submit your work.
+
+1. Delete the `node_modules` folder in the __server__ directory
+2. Zip up the project folder
+3. Submit the zip file
+
+[localhost]: http://localhost:8000/
 [docs]: https://sequelize.org/master/manual/getting-started.html#new-databases-versus-existing-databases
 [cli-docs]: https://github.com/sequelize/cli/blob/main/README.md

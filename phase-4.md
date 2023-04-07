@@ -34,3 +34,11 @@ sqlite3 db/dev.db "SELECT * FROM 'Insects';"
 ```
 
 [data-source]: https://www.thoughtco.com/smallest-insects-4161295
+
+## Submission
+
+Submit your work.
+
+1. Delete the `node_modules` folder in the __server__ directory
+2. Zip up the project folder
+3. Submit the zip file
