@@ -22,7 +22,7 @@ seed `biggest-trees`.
 > Remember: You'll need `dotenv` before `npx` in order to set the
 > environment variable for the database file location.
 
-## Add seed data with `bulkInsert`
+## Add seed data with `Model.bulkCreate`
 
 Open the new seed file in the folder __server/db/seeders__.
 
@@ -75,7 +75,7 @@ A quick way to verify the data is in the database is using a query with the
 sqlite3 db/dev.db "SELECT * FROM 'Trees';"
 ```
 
-## Allow undoing with `bulkDelete`
+## Allow undoing with `queryInterface.bulkDelete`
 
 Implement the code needed in the `down` function in order to remove the 5 trees
 listed above from the database.

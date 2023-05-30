@@ -12,7 +12,7 @@ Nguyen, Tuan C. "The World's Smallest Insects." ThoughtCo, Aug. 27, 2020,
 In the terminal, use the **Sequelize CLI** to generate a new seeder. Name this
 seed `smallest-insects`.
 
-## Add seed data with `bulkInsert`
+## Add seed data
 
 Open the new seed file in the folder __server/db/seeders__.
 
